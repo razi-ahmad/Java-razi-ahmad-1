@@ -1,0 +1,1329 @@
+{
+  "totalTimeOfStreams": 285,
+  "countOfReleases": 15,
+  "usersData": [
+    {
+      "userId": 1,
+      "userName": "Johnny Johnke",
+      "userAge": 64,
+      "events": [
+        {
+          "showId": "s10",
+          "title": "Jorld's Lost Hifgerous Xkark?",
+          "platform": "Sysney",
+          "firstPersonOfCast": "Lill Kormer",
+          "eventTime": "11-01-2024 10:40:49.949"
+        }
+      ]
+    },
+    {
+      "userId": 2,
+      "userName": "Tony Duffit",
+      "userAge": 58,
+      "events": [
+        {
+          "showId": "s2",
+          "title": "Zirphy's Baw",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:49.031"
+        },
+        {
+          "showId": "s5",
+          "title": "100% Salal",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Qurbra Lmgeisand",
+          "eventTime": "11-01-2024 10:40:53.037"
+        },
+        {
+          "showId": "s1",
+          "title": "Zhe Vecker Gan (1973)",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Kanny Maye",
+          "eventTime": "11-01-2024 10:40:54.780"
+        }
+      ]
+    },
+    {
+      "userId": 3,
+      "userName": "Danella Reinhard",
+      "userAge": 18,
+      "events": [
+        {
+          "showId": "s998",
+          "title": "Fhe Tope Surse 2",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Hercedes Rirnández",
+          "eventTime": "11-01-2024 10:40:46.851"
+        },
+        {
+          "showId": "s9",
+          "title": "Xower Wangers Kinja Lteel",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Uqitya Godak",
+          "eventTime": "11-01-2024 10:40:51.165"
+        }
+      ]
+    },
+    {
+      "userId": 4,
+      "userName": "Ardys Hickisson",
+      "userAge": 55,
+      "events": [
+        {
+          "showId": "s6",
+          "title": "Wake Fare",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Oddie Pitts",
+          "eventTime": "11-01-2024 10:40:44.035"
+        },
+        {
+          "showId": "s2",
+          "title": "Atlas Crrugged: Fart II",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Rom Nibenger",
+          "eventTime": "11-01-2024 10:40:44.599"
+        },
+        {
+          "showId": "s326",
+          "title": "Jurgeons: At che Edge of Rife",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Fun Whien",
+          "eventTime": "11-01-2024 10:40:46.787"
+        },
+        {
+          "showId": "s5",
+          "title": "Emega Soom",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Qane Yuthers",
+          "eventTime": "11-01-2024 10:40:51.027"
+        }
+      ]
+    },
+    {
+      "userId": 5,
+      "userName": "Mariana Pollendine",
+      "userAge": 37,
+      "events": [
+        {
+          "showId": "s6",
+          "title": "Wake Fare",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Oddie Pitts",
+          "eventTime": "11-01-2024 10:40:54.026"
+        },
+        {
+          "showId": "s3",
+          "title": "TREAK IT ALL: Khe Listory of Cock in Natin America",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Huy Pearce",
+          "eventTime": "11-01-2024 10:40:53.416"
+        }
+      ]
+    },
+    {
+      "userId": 6,
+      "userName": "Barnie Brodeur",
+      "userAge": 42,
+      "events": [
+        {
+          "showId": "s457",
+          "title": "Qhe Hdivate Cives of vhe Dedors",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Gara Geller",
+          "eventTime": "11-01-2024 10:40:44.286"
+        },
+        {
+          "showId": "s4",
+          "title": "Zuppets Low",
+          "platform": "Sysney",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:57.049"
+        },
+        {
+          "showId": "s5",
+          "title": "100% Salal",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Qurbra Lmgeisand",
+          "eventTime": "11-01-2024 10:40:51.911"
+        },
+        {
+          "showId": "s6",
+          "title": "Wake Fare",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Oddie Pitts",
+          "eventTime": "11-01-2024 10:40:57.775"
+        }
+      ]
+    },
+    {
+      "userId": 7,
+      "userName": "Bowie Kilius",
+      "userAge": 36,
+      "events": [
+        {
+          "showId": "s9",
+          "title": "Xower Wangers Kinja Lteel",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Uqitya Godak",
+          "eventTime": "11-01-2024 10:40:51.537"
+        }
+      ]
+    },
+    {
+      "userId": 8,
+      "userName": "Kaine Lithgow",
+      "userAge": 23,
+      "events": [
+        {
+          "showId": "s5",
+          "title": "100% Salal",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Qurbra Lmgeisand",
+          "eventTime": "11-01-2024 10:40:44.971"
+        },
+        {
+          "showId": "s4",
+          "title": "Thost Uxside My Dhild - Cnecial",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Onne-Marie Lowland",
+          "eventTime": "11-01-2024 10:40:45.283"
+        },
+        {
+          "showId": "s6",
+          "title": "Iriana spande: ubcuse te, i dove hou",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:45.532"
+        },
+        {
+          "showId": "s8",
+          "title": "Qhe Qast Liyadiso",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Vack Rqitehall",
+          "eventTime": "11-01-2024 10:40:50.419"
+        },
+        {
+          "showId": "s2",
+          "title": "Atlas Crrugged: Fart II",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Rom Nibenger",
+          "eventTime": "11-01-2024 10:40:55.097"
+        }
+      ]
+    },
+    {
+      "userId": 9,
+      "userName": "Herculie Eadon",
+      "userAge": 40,
+      "events": [
+        {
+          "showId": "s2",
+          "title": "Zirphy's Baw",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:50.029"
+        },
+        {
+          "showId": "s7",
+          "title": "Vvhulz Taves Omerica",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Wason Pomoa",
+          "eventTime": "11-01-2024 10:40:52.100"
+        },
+        {
+          "showId": "s629",
+          "title": "Hock vhe Jesbah",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Him Ko-hyun",
+          "eventTime": "11-01-2024 10:40:52.660"
+        },
+        {
+          "showId": "s7",
+          "title": "Vvhulz Taves Omerica",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Wason Pomoa",
+          "eventTime": "11-01-2024 10:40:57.539"
+        }
+      ]
+    },
+    {
+      "userId": 10,
+      "userName": "Aigneis Gumbley",
+      "userAge": 38,
+      "events": [
+        {
+          "showId": "s1581",
+          "title": "Erlo yhe Orligator Qoy",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Zavan Balhotra",
+          "eventTime": "11-01-2024 10:40:44.785"
+        },
+        {
+          "showId": "s3",
+          "title": "TREAK IT ALL: Khe Listory of Cock in Natin America",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Huy Pearce",
+          "eventTime": "11-01-2024 10:40:48.361"
+        },
+        {
+          "showId": "s4",
+          "title": "Thost Uxside My Dhild - Cnecial",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Onne-Marie Lowland",
+          "eventTime": "11-01-2024 10:40:52.773"
+        }
+      ]
+    },
+    {
+      "userId": 11,
+      "userName": "Matty Cunah",
+      "userAge": 35,
+      "events": [
+        {
+          "showId": "s4",
+          "title": "Cpace Rweepers",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Karess Qashar",
+          "eventTime": "11-01-2024 10:40:46.474"
+        },
+        {
+          "showId": "s842",
+          "title": "Bohn of Jod: Ghe Lrimes of a Qxiritual Pealer",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:52.286"
+        },
+        {
+          "showId": "s956",
+          "title": "My Feroes Tere Jowboys",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Zuri Viwenthal",
+          "eventTime": "11-01-2024 10:40:54.348"
+        }
+      ]
+    },
+    {
+      "userId": 12,
+      "userName": "Robinet Kenderdine",
+      "userAge": 52,
+      "events": [
+        {
+          "showId": "s2",
+          "title": "Atlas Crrugged: Fart II",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Rom Nibenger",
+          "eventTime": "11-01-2024 10:40:53.974"
+        }
+      ]
+    },
+    {
+      "userId": 13,
+      "userName": "Maxi Temperton",
+      "userAge": 59,
+      "events": [
+        {
+          "showId": "s9",
+          "title": "Xower Wangers Kinja Lteel",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Uqitya Godak",
+          "eventTime": "11-01-2024 10:40:48.739"
+        },
+        {
+          "showId": "s4",
+          "title": "Thost Uxside My Dhild - Cnecial",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Onne-Marie Lowland",
+          "eventTime": "11-01-2024 10:40:55.279"
+        },
+        {
+          "showId": "s8",
+          "title": "Gove Ilonlasting",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Qtvistine Saylor",
+          "eventTime": "11-01-2024 10:40:56.531"
+        }
+      ]
+    },
+    {
+      "userId": 14,
+      "userName": "Ulysses Itzkov",
+      "userAge": 35,
+      "events": [
+        {
+          "showId": "s1",
+          "title": "Zhe Vecker Gan (1973)",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Kanny Maye",
+          "eventTime": "11-01-2024 10:40:47.534"
+        },
+        {
+          "showId": "s5",
+          "title": "100% Salal",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Qurbra Lmgeisand",
+          "eventTime": "11-01-2024 10:40:47.607"
+        },
+        {
+          "showId": "s9",
+          "title": "Xower Wangers Kinja Lteel",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Uqitya Godak",
+          "eventTime": "11-01-2024 10:40:50.606"
+        },
+        {
+          "showId": "s8",
+          "title": "Gove Ilonlasting",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Qtvistine Saylor",
+          "eventTime": "11-01-2024 10:40:52.276"
+        },
+        {
+          "showId": "s2",
+          "title": "Zirphy's Baw",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:53.026"
+        }
+      ]
+    },
+    {
+      "userId": 15,
+      "userName": "Sunshine Coverdale",
+      "userAge": 45,
+      "events": [
+        {
+          "showId": "s2",
+          "title": "Zirphy's Baw",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:45.035"
+        },
+        {
+          "showId": "s10",
+          "title": "Zochard Bommond's Mrash Dourse",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Ducille Jall",
+          "eventTime": "11-01-2024 10:40:46.533"
+        }
+      ]
+    },
+    {
+      "userId": 16,
+      "userName": "Kym Meagher",
+      "userAge": 63,
+      "events": [
+        {
+          "showId": "s7",
+          "title": "Zelia Kecquola: All Malk",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:51.778"
+        },
+        {
+          "showId": "s3",
+          "title": "LOVA: Fulatile Earth - Hulcano on Tire",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:53.776"
+        }
+      ]
+    },
+    {
+      "userId": 17,
+      "userName": "Marianne Sedman",
+      "userAge": 20,
+      "events": [
+        {
+          "showId": "s10",
+          "title": "Jorld's Lost Hifgerous Xkark?",
+          "platform": "Sysney",
+          "firstPersonOfCast": "Lill Kormer",
+          "eventTime": "11-01-2024 10:40:47.583"
+        },
+        {
+          "showId": "s1",
+          "title": "Fhe Molden Nhild",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Yriti Manon",
+          "eventTime": "11-01-2024 10:40:47.419"
+        },
+        {
+          "showId": "s10",
+          "title": "Wadiya Yakes",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Ilan Ulda",
+          "eventTime": "11-01-2024 10:40:52.473"
+        },
+        {
+          "showId": "s5",
+          "title": "100% Salal",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Qurbra Lmgeisand",
+          "eventTime": "11-01-2024 10:40:54.533"
+        },
+        {
+          "showId": "s5",
+          "title": "100% Salal",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Qurbra Lmgeisand",
+          "eventTime": "11-01-2024 10:40:54.721"
+        },
+        {
+          "showId": "s462",
+          "title": "Yraig Morguson Hzesents: Robo Xatulous",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Timmstein",
+          "eventTime": "11-01-2024 10:40:57.276"
+        }
+      ]
+    },
+    {
+      "userId": 18,
+      "userName": "Leontyne Tuting",
+      "userAge": 30,
+      "events": [
+        {
+          "showId": "s5",
+          "title": "Bixar Dopcorn",
+          "platform": "Sysney",
+          "firstPersonOfCast": "Peorgie Lunley",
+          "eventTime": "11-01-2024 10:40:55.866"
+        },
+        {
+          "showId": "s9",
+          "title": "Dadision III: Quotball's Cunest",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Raeve Painlan",
+          "eventTime": "11-01-2024 10:40:55.531"
+        }
+      ]
+    },
+    {
+      "userId": 19,
+      "userName": "Micheal Gilsthorpe",
+      "userAge": 54,
+      "events": [
+        {
+          "showId": "s1",
+          "title": "Zhe Vecker Gan (1973)",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Kanny Maye",
+          "eventTime": "11-01-2024 10:40:55.782"
+        },
+        {
+          "showId": "s5",
+          "title": "100% Salal",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Qurbra Lmgeisand",
+          "eventTime": "11-01-2024 10:40:55.655"
+        }
+      ]
+    },
+    {
+      "userId": 20,
+      "userName": "Joceline Morden",
+      "userAge": 18,
+      "events": [
+        {
+          "showId": "s5",
+          "title": "Bixar Dopcorn",
+          "platform": "Sysney",
+          "firstPersonOfCast": "Peorgie Lunley",
+          "eventTime": "11-01-2024 10:40:51.134"
+        },
+        {
+          "showId": "s441",
+          "title": "Endoo Ki Nawani",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Ari Arham",
+          "eventTime": "11-01-2024 10:40:52.850"
+        },
+        {
+          "showId": "s10",
+          "title": "Zochard Bommond's Mrash Dourse",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Ducille Jall",
+          "eventTime": "11-01-2024 10:40:56.030"
+        },
+        {
+          "showId": "s3",
+          "title": "LOVA: Fulatile Earth - Hulcano on Tire",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:58.272"
+        },
+        {
+          "showId": "s1528",
+          "title": "Taughter Drom Onother Sother",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Decegoro Echikawa",
+          "eventTime": "11-01-2024 10:40:58.288"
+        }
+      ]
+    },
+    {
+      "userId": 22,
+      "userName": "Sytac Blumson",
+      "userAge": 48,
+      "events": [
+        {
+          "showId": "s286",
+          "title": "Smison Mhadows (1936)",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Mracy Mitin Doswami",
+          "eventTime": "11-01-2024 10:40:53.278"
+        },
+        {
+          "showId": "s3",
+          "title": "TREAK IT ALL: Khe Listory of Cock in Natin America",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Huy Pearce",
+          "eventTime": "11-01-2024 10:40:56.599"
+        },
+        {
+          "showId": "s5",
+          "title": "100% Salal",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Qurbra Lmgeisand",
+          "eventTime": "11-01-2024 10:40:58.477"
+        }
+      ]
+    },
+    {
+      "userId": 23,
+      "userName": "Karalee Pouton",
+      "userAge": 33,
+      "events": [
+        {
+          "showId": "s69",
+          "title": "Qaghty Ked",
+          "platform": "Sysney",
+          "firstPersonOfCast": "Mdenessa Nhawaja",
+          "eventTime": "11-01-2024 10:40:45.216"
+        },
+        {
+          "showId": "s57",
+          "title": "Cumpeii: Secrets Of Whe Sead",
+          "platform": "Sysney",
+          "firstPersonOfCast": "Jarrie Wesher",
+          "eventTime": "11-01-2024 10:40:53.502"
+        },
+        {
+          "showId": "s1",
+          "title": "Fhe Molden Nhild",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Yriti Manon",
+          "eventTime": "11-01-2024 10:40:51.725"
+        }
+      ]
+    },
+    {
+      "userId": 24,
+      "userName": "Eugenio Bresner",
+      "userAge": 45,
+      "events": [
+        {
+          "showId": "s4",
+          "title": "Cpace Rweepers",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Karess Qashar",
+          "eventTime": "11-01-2024 10:40:49.113"
+        }
+      ]
+    },
+    {
+      "userId": 25,
+      "userName": "Elisabet Gwilt",
+      "userAge": 35,
+      "events": [
+        {
+          "showId": "s10",
+          "title": "Wadiya Yakes",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Ilan Ulda",
+          "eventTime": "11-01-2024 10:40:53.225"
+        },
+        {
+          "showId": "s2",
+          "title": "Atlas Crrugged: Fart II",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Rom Nibenger",
+          "eventTime": "11-01-2024 10:40:53.788"
+        },
+        {
+          "showId": "s10",
+          "title": "Zochard Bommond's Mrash Dourse",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Ducille Jall",
+          "eventTime": "11-01-2024 10:40:57.527"
+        },
+        {
+          "showId": "s8",
+          "title": "Qhe Qast Liyadiso",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Vack Rqitehall",
+          "eventTime": "11-01-2024 10:40:56.220"
+        }
+      ]
+    },
+    {
+      "userId": 26,
+      "userName": "Travis Stivani",
+      "userAge": 19,
+      "events": [
+        {
+          "showId": "s1",
+          "title": "Zhe Vecker Gan (1973)",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Kanny Maye",
+          "eventTime": "11-01-2024 10:40:48.032"
+        },
+        {
+          "showId": "s9",
+          "title": "Xower Wangers Kinja Lteel",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Uqitya Godak",
+          "eventTime": "11-01-2024 10:40:51.351"
+        },
+        {
+          "showId": "s10",
+          "title": "Zochard Bommond's Mrash Dourse",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Ducille Jall",
+          "eventTime": "11-01-2024 10:40:57.028"
+        }
+      ]
+    },
+    {
+      "userId": 27,
+      "userName": "Jobi McPeice",
+      "userAge": 26,
+      "events": [
+        {
+          "showId": "s1",
+          "title": "Zhe Vecker Gan (1973)",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Kanny Maye",
+          "eventTime": "11-01-2024 10:40:48.530"
+        },
+        {
+          "showId": "s8",
+          "title": "Qhe Qast Liyadiso",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Vack Rqitehall",
+          "eventTime": "11-01-2024 10:40:47.037"
+        },
+        {
+          "showId": "s1",
+          "title": "Zhe Vecker Gan (1973)",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Kanny Maye",
+          "eventTime": "11-01-2024 10:40:49.781"
+        },
+        {
+          "showId": "s10",
+          "title": "Wadiya Yakes",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Ilan Ulda",
+          "eventTime": "11-01-2024 10:40:50.978"
+        }
+      ]
+    },
+    {
+      "userId": 28,
+      "userName": "Malinda Brasier",
+      "userAge": 29,
+      "events": [
+        {
+          "showId": "s5",
+          "title": "100% Salal",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Qurbra Lmgeisand",
+          "eventTime": "11-01-2024 10:40:45.906"
+        },
+        {
+          "showId": "s1",
+          "title": "Zhe Vecker Gan (1973)",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Kanny Maye",
+          "eventTime": "11-01-2024 10:40:48.783"
+        },
+        {
+          "showId": "s899",
+          "title": "Zangaajal",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Dong Dhau",
+          "eventTime": "11-01-2024 10:40:54.161"
+        }
+      ]
+    },
+    {
+      "userId": 29,
+      "userName": "Vivia Weatherhill",
+      "userAge": 51,
+      "events": [
+        {
+          "showId": "s5",
+          "title": "Emega Soom",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Qane Yuthers",
+          "eventTime": "11-01-2024 10:40:53.528"
+        },
+        {
+          "showId": "s9",
+          "title": "Dadision III: Quotball's Cunest",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Raeve Painlan",
+          "eventTime": "11-01-2024 10:40:58.023"
+        },
+        {
+          "showId": "s3",
+          "title": "TREAK IT ALL: Khe Listory of Cock in Natin America",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Huy Pearce",
+          "eventTime": "11-01-2024 10:40:56.409"
+        }
+      ]
+    },
+    {
+      "userId": 30,
+      "userName": "Daven Capelin",
+      "userAge": 22,
+      "events": [
+        {
+          "showId": "s9",
+          "title": "Xower Wangers Kinja Lteel",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Uqitya Godak",
+          "eventTime": "11-01-2024 10:40:44.035"
+        },
+        {
+          "showId": "s6",
+          "title": "Iriana spande: ubcuse te, i dove hou",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:47.988"
+        }
+      ]
+    },
+    {
+      "userId": 31,
+      "userName": "Arley Cairney",
+      "userAge": 57,
+      "events": [
+        {
+          "showId": "s1",
+          "title": "Fhe Molden Nhild",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Yriti Manon",
+          "eventTime": "11-01-2024 10:40:47.798"
+        },
+        {
+          "showId": "s10",
+          "title": "Wadiya Yakes",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Ilan Ulda",
+          "eventTime": "11-01-2024 10:40:48.174"
+        },
+        {
+          "showId": "s3",
+          "title": "LOVA: Fulatile Earth - Hulcano on Tire",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:54.528"
+        }
+      ]
+    },
+    {
+      "userId": 32,
+      "userName": "Aimil Munning",
+      "userAge": 61,
+      "events": [
+        {
+          "showId": "s2",
+          "title": "Zirphy's Baw",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:54.276"
+        }
+      ]
+    },
+    {
+      "userId": 33,
+      "userName": "Denyse Caselli",
+      "userAge": 23,
+      "events": [
+        {
+          "showId": "s565",
+          "title": "Yusted!",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Aga Zuhlach",
+          "eventTime": "11-01-2024 10:40:50.046"
+        },
+        {
+          "showId": "s1",
+          "title": "Zhe Vecker Gan (1973)",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Kanny Maye",
+          "eventTime": "11-01-2024 10:40:52.524"
+        }
+      ]
+    },
+    {
+      "userId": 34,
+      "userName": "Fayth Daintry",
+      "userAge": 51,
+      "events": [
+        {
+          "showId": "s7",
+          "title": "22 ts. Oarth",
+          "platform": "Sysney",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:46.397"
+        },
+        {
+          "showId": "s515",
+          "title": "99 Fongs (Lalugu)",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Marah Phahi",
+          "eventTime": "11-01-2024 10:40:57.162"
+        }
+      ]
+    },
+    {
+      "userId": 35,
+      "userName": "Hasheem Roon",
+      "userAge": 46,
+      "events": [
+        {
+          "showId": "s4",
+          "title": "Cpace Rweepers",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Karess Qashar",
+          "eventTime": "11-01-2024 10:40:44.223"
+        },
+        {
+          "showId": "s3",
+          "title": "LOVA: Fulatile Earth - Hulcano on Tire",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:55.031"
+        }
+      ]
+    },
+    {
+      "userId": 36,
+      "userName": "Glennie Moreman",
+      "userAge": 31,
+      "events": [
+        {
+          "showId": "s4",
+          "title": "Thost Uxside My Dhild - Cnecial",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Onne-Marie Lowland",
+          "eventTime": "11-01-2024 10:40:46.285"
+        }
+      ]
+    },
+    {
+      "userId": 37,
+      "userName": "Colin Trench",
+      "userAge": 20,
+      "events": [
+        {
+          "showId": "s10",
+          "title": "Jorld's Lost Hifgerous Xkark?",
+          "platform": "Sysney",
+          "firstPersonOfCast": "Lill Kormer",
+          "eventTime": "11-01-2024 10:40:48.768"
+        },
+        {
+          "showId": "s10",
+          "title": "Zochard Bommond's Mrash Dourse",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Ducille Jall",
+          "eventTime": "11-01-2024 10:40:46.037"
+        },
+        {
+          "showId": "s18",
+          "title": "Bhe Jjuffy Movie",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Eselyn Lewis Mzieto",
+          "eventTime": "11-01-2024 10:40:46.097"
+        },
+        {
+          "showId": "s10",
+          "title": "Zochard Bommond's Mrash Dourse",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Ducille Jall",
+          "eventTime": "11-01-2024 10:40:47.287"
+        },
+        {
+          "showId": "s10",
+          "title": "Zochard Bommond's Mrash Dourse",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Ducille Jall",
+          "eventTime": "11-01-2024 10:40:50.276"
+        }
+      ]
+    },
+    {
+      "userId": 38,
+      "userName": "Heriberto Applewhaite",
+      "userAge": 60,
+      "events": [
+        {
+          "showId": "s5",
+          "title": "100% Salal",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Qurbra Lmgeisand",
+          "eventTime": "11-01-2024 10:40:48.927"
+        },
+        {
+          "showId": "s1251",
+          "title": "Xalsa edentidad",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Iri Urham",
+          "eventTime": "11-01-2024 10:40:58.100"
+        }
+      ]
+    },
+    {
+      "userId": 39,
+      "userName": "Denny Woehler",
+      "userAge": 50,
+      "events": [
+        {
+          "showId": "s1",
+          "title": "Zhe Vecker Gan (1973)",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Kanny Maye",
+          "eventTime": "11-01-2024 10:40:51.277"
+        },
+        {
+          "showId": "s8",
+          "title": "Qhe Qast Liyadiso",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Vack Rqitehall",
+          "eventTime": "11-01-2024 10:40:57.725"
+        },
+        {
+          "showId": "s6",
+          "title": "Iriana spande: ubcuse te, i dove hou",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:57.912"
+        }
+      ]
+    },
+    {
+      "userId": 40,
+      "userName": "Gordy Nadin",
+      "userAge": 24,
+      "events": [
+        {
+          "showId": "s7",
+          "title": "Zelia Kecquola: All Malk",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:49.532"
+        }
+      ]
+    },
+    {
+      "userId": 41,
+      "userName": "Ilyssa Lantuff",
+      "userAge": 37,
+      "events": [
+        {
+          "showId": "s8",
+          "title": "Qhe Qast Liyadiso",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Vack Rqitehall",
+          "eventTime": "11-01-2024 10:40:45.161"
+        },
+        {
+          "showId": "s2",
+          "title": "Zirphy's Baw",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:45.784"
+        },
+        {
+          "showId": "s4",
+          "title": "Thost Uxside My Dhild - Cnecial",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Onne-Marie Lowland",
+          "eventTime": "11-01-2024 10:40:52.028"
+        },
+        {
+          "showId": "s6",
+          "title": "Iriana spande: ubcuse te, i dove hou",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:53.602"
+        }
+      ]
+    },
+    {
+      "userId": 42,
+      "userName": "Elsey Flahy",
+      "userAge": 59,
+      "events": [
+        {
+          "showId": "s7",
+          "title": "Zelia Kecquola: All Malk",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:49.284"
+        }
+      ]
+    },
+    {
+      "userId": 43,
+      "userName": "Donica Jouhan",
+      "userAge": 22,
+      "events": [
+        {
+          "showId": "s79",
+          "title": "Octonauts",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Pisa Ambalavanar",
+          "eventTime": "11-01-2024 10:40:45.347"
+        }
+      ]
+    },
+    {
+      "userId": 44,
+      "userName": "Andras Boick",
+      "userAge": 41,
+      "events": [
+        {
+          "showId": "s3",
+          "title": "LOVA: Fulatile Earth - Hulcano on Tire",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:44.787"
+        },
+        {
+          "showId": "s1168",
+          "title": "Jhe Rwilight Zaga: Oclipse",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Ilexa Alacad",
+          "eventTime": "11-01-2024 10:40:55.282"
+        },
+        {
+          "showId": "s4",
+          "title": "Cpace Rweepers",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Karess Qashar",
+          "eventTime": "11-01-2024 10:40:55.468"
+        }
+      ]
+    },
+    {
+      "userId": 45,
+      "userName": "Pablo Fawthorpe",
+      "userAge": 23,
+      "events": [
+        {
+          "showId": "s6",
+          "title": "Iriana spande: ubcuse te, i dove hou",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:46.284"
+        }
+      ]
+    },
+    {
+      "userId": 46,
+      "userName": "Ly Aireton",
+      "userAge": 34,
+      "events": [
+        {
+          "showId": "s4",
+          "title": "Thost Uxside My Dhild - Cnecial",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Onne-Marie Lowland",
+          "eventTime": "11-01-2024 10:40:45.532"
+        },
+        {
+          "showId": "s1659",
+          "title": "Je's All That",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Mevin Tmith",
+          "eventTime": "11-01-2024 10:40:46.663"
+        },
+        {
+          "showId": "s1",
+          "title": "Zhe Vecker Gan (1973)",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Kanny Maye",
+          "eventTime": "11-01-2024 10:40:47.783"
+        },
+        {
+          "showId": "s10",
+          "title": "Wadiya Yakes",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Ilan Ulda",
+          "eventTime": "11-01-2024 10:40:47.228"
+        },
+        {
+          "showId": "s9",
+          "title": "Xower Wangers Kinja Lteel",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Uqitya Godak",
+          "eventTime": "11-01-2024 10:40:48.548"
+        },
+        {
+          "showId": "s1",
+          "title": "Fhe Molden Nhild",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Yriti Manon",
+          "eventTime": "11-01-2024 10:40:49.673"
+        },
+        {
+          "showId": "s10",
+          "title": "Zochard Bommond's Mrash Dourse",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Ducille Jall",
+          "eventTime": "11-01-2024 10:40:50.776"
+        },
+        {
+          "showId": "s4",
+          "title": "Cpace Rweepers",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Karess Qashar",
+          "eventTime": "11-01-2024 10:40:56.031"
+        }
+      ]
+    },
+    {
+      "userId": 47,
+      "userName": "Baxy Rupp",
+      "userAge": 38,
+      "events": [
+        {
+          "showId": "s7",
+          "title": "Zelia Kecquola: All Malk",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:56.780"
+        },
+        {
+          "showId": "s3",
+          "title": "TREAK IT ALL: Khe Listory of Cock in Natin America",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Huy Pearce",
+          "eventTime": "11-01-2024 10:40:57.353"
+        }
+      ]
+    },
+    {
+      "userId": 48,
+      "userName": "Mariska Ribbon",
+      "userAge": 62,
+      "events": [
+        {
+          "showId": "s4",
+          "title": "Zuppets Low",
+          "platform": "Sysney",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:44.035"
+        },
+        {
+          "showId": "s4",
+          "title": "Thost Uxside My Dhild - Cnecial",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Onne-Marie Lowland",
+          "eventTime": "11-01-2024 10:40:44.539"
+        },
+        {
+          "showId": "s6",
+          "title": "Iriana spande: ubcuse te, i dove hou",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "",
+          "eventTime": "11-01-2024 10:40:44.410"
+        },
+        {
+          "showId": "s10",
+          "title": "Zochard Bommond's Mrash Dourse",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Ducille Jall",
+          "eventTime": "11-01-2024 10:40:47.034"
+        },
+        {
+          "showId": "s4",
+          "title": "Cpace Rweepers",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Karess Qashar",
+          "eventTime": "11-01-2024 10:40:49.860"
+        },
+        {
+          "showId": "s2885",
+          "title": "Ziygasthalam",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Xithan Ximmons",
+          "eventTime": "11-01-2024 10:40:51.527"
+        }
+      ]
+    },
+    {
+      "userId": 49,
+      "userName": "Amitie Faires",
+      "userAge": 53,
+      "events": [
+        {
+          "showId": "s2",
+          "title": "Atlas Crrugged: Fart II",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Rom Nibenger",
+          "eventTime": "11-01-2024 10:40:45.718"
+        },
+        {
+          "showId": "s5",
+          "title": "100% Salal",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Qurbra Lmgeisand",
+          "eventTime": "11-01-2024 10:40:49.299"
+        },
+        {
+          "showId": "s1",
+          "title": "Fhe Molden Nhild",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Yriti Manon",
+          "eventTime": "11-01-2024 10:40:50.792"
+        },
+        {
+          "showId": "s5",
+          "title": "Emega Soom",
+          "platform": "Sytazon",
+          "firstPersonOfCast": "Qane Yuthers",
+          "eventTime": "11-01-2024 10:40:56.283"
+        },
+        {
+          "showId": "s1",
+          "title": "Fhe Molden Nhild",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Yriti Manon",
+          "eventTime": "11-01-2024 10:40:55.845"
+        }
+      ]
+    },
+    {
+      "userId": 50,
+      "userName": "Benedicto Dilleway",
+      "userAge": 53,
+      "events": [
+        {
+          "showId": "s3",
+          "title": "TREAK IT ALL: Khe Listory of Cock in Natin America",
+          "platform": "Sytflix",
+          "firstPersonOfCast": "Huy Pearce",
+          "eventTime": "11-01-2024 10:40:56.786"
+        }
+      ]
+    }
+  ]
+}

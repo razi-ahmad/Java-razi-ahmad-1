@@ -1,0 +1,18 @@
+sytac:
+  identifier: test
+  #base-url: http://localhost
+  platforms: /sytflix, /sytazon, /sysney
+  username: test
+  password: test
+  wait-time: 20
+
+server:
+  port: 8090
+spring:
+  codec:
+    max-in-memory-size: 500MB
+  main:
+    banner-mode: console
+logging:
+  level:
+    root: info

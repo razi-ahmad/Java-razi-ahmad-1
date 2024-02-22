@@ -1,0 +1,24 @@
+version: "3.7"
+
+services:
+  video-stream-server:
+    platform: linux/arm64
+    image: sytacdocker/video-stream-server-arm:latest
+    container_name: video-stream-server
+    ports:
+      - "8080:8080"
+
+  video-event-consumer:
+    platform: linux/arm64
+    build:
+      context: ..
+      dockerfile: Dockerfile
+      target: production
+      args:
+        - SERVER_URL=http://video-stream-server:8080
+      labels:
+        container-name: video-event-consumer
+    ports:
+      - "8090:8090"
+    depends_on:
+      - video-stream-server

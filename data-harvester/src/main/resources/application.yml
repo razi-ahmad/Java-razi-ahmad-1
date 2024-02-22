@@ -1,0 +1,18 @@
+sytac:
+  identifier: Sytac
+  base-url: ${BASE_STREAM_URL}
+  platforms: /sytflix, /sytazon, /sysney
+  username: sytac
+  password: 4p9g-Dv7T-u8fe-iz6y-SRW2
+  wait-time: 20
+
+server:
+  port: 8090
+spring:
+  codec:
+    max-in-memory-size: 500MB
+  main:
+    banner-mode: console
+logging:
+  level:
+    root: info
